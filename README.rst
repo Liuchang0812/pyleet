@@ -13,7 +13,7 @@ Python LeetCode Library
         :alt: Documentation Status
 
 
-pyleet is a simple project for leetcode.
+Pyleet is a simple project for leetcode.
 
 * Free software: ISC license
 * Documentation: https://pyleet.readthedocs.org.
